@@ -38,6 +38,11 @@
         "jobTitle": "Naturopathe (diplôme fédéral MTE)",
         "url": "https://synervie.ch/presentation/"
     },
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Technical Author",
+        "name": "Nicolas Jeanmonod"
+    },
     "sameAs": [
         "https://www.facebook.com/Synervie/",
         "https://www.instagram.com/synervie/"
