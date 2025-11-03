@@ -2,5 +2,8 @@
 
 Céline Gili
 
--  https://synervie.ch/
--  https://allnat.ch/
+## Liens
+
+-   <https://synervie.ch/>
+-   <https://allnat.ch/>
+-   <https://synervie.ch/synervie.jsonld.html>
