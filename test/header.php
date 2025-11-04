@@ -29,6 +29,12 @@ if ( ! defined( 'ABSPATH' ) ) {
 	 */
 	echo apply_filters( 'avada_space_head', Avada()->settings->get( 'space_head' ) ); // phpcs:ignore WordPress.Security.EscapeOutput
 	?>
+	<script type="application/ld+json">
+		<?php
+		$jsonld = file_get_contents('https://raw.githubusercontent.com/NicHub/synervie.ch/refs/heads/main/test/synervie.jsonld');
+		echo $jsonld;
+		?>
+	</script>
 </head>
 
 <?php
